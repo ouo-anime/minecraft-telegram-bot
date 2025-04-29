@@ -1,0 +1,51 @@
+# Kotlin build files
+.gradle/
+build/
+out/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Dependency directories
+/.mvn/
+maven-wrapper.jar
+
+# Gradle files
+.gradle/
+*.jar
+.gradle/
+*.war
+*.ear
+
+# Cached files
+.cache/
+
+# Large files
+*.tar
+*.gz
+*.zip
+*.7z
+*.rar
+
+# .env
+.env
+
+# Compiled Kotlin files
+*.class
+*.kotlin_module
+
+# IntelliJ IDEA config
+.idea/
+*.iml
+.idea_modules/
+
+# For git-lfs
+*.bin
